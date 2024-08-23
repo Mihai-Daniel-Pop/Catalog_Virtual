@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1717767323 source:c:\school things\codebloks-projects\catalog virtual\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<algorithm>
+	"Student.h"
+	"Functions.h"
+
+1717773467 c:\school things\codebloks-projects\catalog virtual\include\student.h
+	<string>
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	<sstream>
+	<limits>
+	"Functions.h"
+
+1717786394 c:\school things\codebloks-projects\catalog virtual\include\functions.h
+	<iostream>
+	<fstream>
+
+1717786797 source:c:\school things\codebloks-projects\catalog virtual\src\student.cpp
+	"Student.h"
+	"Functions.h"
+	"Class.h"
+
+1717786394 source:c:\school things\codebloks-projects\catalog virtual\src\functions.cpp
+	"Functions.h"
+	<limits>
+
+1717785154 source:c:\school things\codebloks-projects\catalog virtual\src\class.cpp
+	"Class.h"
+	<iostream>
+	<algorithm>
+
+1717773467 c:\school things\codebloks-projects\catalog virtual\include\class.h
+	<vector>
+	<string>
+	"Student.h"
+
